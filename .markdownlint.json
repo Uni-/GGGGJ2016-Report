@@ -23,7 +23,6 @@
   "hr-style": { "style": "---" },
   "no-emphasis-as-header": true,
   "no-space-in-emphasis": true,
-  "no-space-in-code": true,
   "no-space-in-links": true,
   "first-line-h1": true
 }
