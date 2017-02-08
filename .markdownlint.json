@@ -20,7 +20,7 @@
   "list-marker-space": true,
   "blanks-around-fences": true,
   "blanks-around-lists": true,
-  "hr-style": { "style": "---" },
+  "hr-style": { "style": "----" },
   "no-emphasis-as-header": true,
   "no-space-in-emphasis": true,
   "no-space-in-links": true,
